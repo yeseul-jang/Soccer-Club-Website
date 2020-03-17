@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/fontawesome/css/all.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+
+    <title>@ViewBag.Title</title>
+
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+            <a class="navbar-brand mr-4" href="#"><i class="fa fa-futbol">Soccer's Club</i></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Club" asp-action="List">Clubs</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Team" asp-action="List">Teams</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" asp-controller="Match" asp-action="List">Matches</a>
+                    </li>
+
+                </ul> 
+                @if (User?.Identity?.IsAuthenticated ?? false)
+                {
+                    <span class="navbar-text mr-3">
+                        Hello, @User?.Identity?.Name
+                    </span>
+                    <ul class="navbar-nav navbar-right">
+                        <li class="nav-item active">
+                            <a class="btn btn-sm btn-primary" asp-action="Logout" asp-controller="Account">Log Out</a>
+                        </li>
+                    </ul>
+                }
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div class="m-3 p-1">
+            @if (TempData["message"] != null)
+            {
+                <div class="alert alert-success mt-1">@TempData["message"]</div>
+            }
+            @if (TempData["messageError"] != null)
+            {
+                <div class="alert alert-danger mt-1">@TempData["messageError"]</div>
+            }
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <nav class="navbar bg-faded navbar-expand-lg fixed-bottom navbar-light bg-light">
+                <ul class="nav navbar-nav mx-auto">
+                    <li class="nav-item"><a class="nav-link" href="#">&copy; Soccer's Club 2019</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
+
+</body>
+</html>

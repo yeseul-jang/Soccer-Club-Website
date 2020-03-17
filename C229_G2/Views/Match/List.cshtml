@@ -1,0 +1,73 @@
+﻿@model MatchViewModel
+
+
+<h2>Match List</h2>
+
+<form asp-action="List" asp-controller="Match" method="post" class="mt-3">
+    <div class="text-center">
+        <label asp-for="Date" class="float-left">Filter by Date:</label>
+        <input asp-for="Date" type="date" asp-format="{0:yyyy-MM-dd}"
+               class="form-control" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <div class="text-center mt-3">
+        <button class="btn btn-primary" type="submit">Filter</button>
+        <a asp-controller="Match" asp-action="List" class="btn btn-primary">List All</a>
+    </div>
+
+</form>
+
+
+
+<table class="table table-sm table-striped table-bordered mt-4">
+    <thead>
+        <tr>
+            <th>Match Id</th>
+            <th>Date</th>
+            <th>Location</th>
+            <th>Referee</th>
+            <th>Home Team</th>
+            <th>Score</th>
+            <th>Score</th>
+            <th>Away Team</th>
+
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var match in Model.Matches)
+        {
+            <tr>
+                <td>@match.MatchID</td>
+                <td>@match.Date</td>
+                <td>@match.Location</td>
+                <td>@match.Referee</td>
+                <td>@match?.HomeTeam?.Name</td>
+                <td>@match?.HomeGoals</td>
+                <td>@match?.AwayGoals</td>
+                <td>@match?.AwayTeam?.Name</td>
+                <td class="text-center">
+                    <form asp-action="Delete" method="post">
+                        <a asp-action="Edit" class="btn btn-sm btn-warning"
+                           asp-route-matchID="@match.MatchID">
+                            Edit
+                        </a>
+                        <input type="hidden" name="MatchID" value="@match.MatchID" />
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                        <a asp-action="Detail" class="btn btn-sm btn-secondary"
+                           asp-route-matchID="@match.MatchID">
+                            Details
+                        </a>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Match" class="btn btn-primary">Add Match</a>
+</div>

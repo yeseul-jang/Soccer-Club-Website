@@ -1,0 +1,55 @@
+﻿@model MatchViewModel
+
+<h2>Match</h2>
+<p>Please enter the match  details.</p>
+
+<form asp-action="Edit" asp-controller="Match" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <input type="hidden" asp-for="Match.MatchID" />
+
+    <div class="form-group">
+        <input asp-for="Match.Date" type="datetime-local" asp-format="{0:yyyy-MM-ddThh:mm}" class="form-control" />
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Match.Location">Location:</label>
+        <select asp-for="Match.Location" class="form-control">
+            <option value="">Please select...</option>
+            <option value="Stadium A">Stadium A</option>
+            <option value="Stadium B">Stadium B</option>
+            <option value="Stadium C">Stadium C</option>
+            <option value="Stadium D">Stadium D</option>
+        </select>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Match.Referee"></label>
+        <input asp-for="Match.Referee" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Match.HomeTeam">Home Team:</label>
+        <select asp-for="SelectedHomeTeamID" class="form-control"
+                asp-items="@(new SelectList(Model.Teams,"TeamID","Name"))">
+            <option>Please select one</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Match.AwayTeam">Away Team:</label>
+        <select asp-for="SelectedAwayTeamID" class="form-control"
+                asp-items="@(new SelectList(Model.Teams,"TeamID","Name"))">
+            <option>Please select one</option>
+        </select>
+    </div>
+
+    <div class="text-center">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a asp-action="List" asp-controller="Match" class="btn btn-secondary">Cancel</a>
+    </div>
+
+</form>

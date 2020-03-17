@@ -1,0 +1,54 @@
+﻿@model Player
+
+<h2>Manage Players</h2>
+<p>Please enter the player data for the following club:</p>
+
+<div class="card bg-light">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Club.Name</h5>
+        <p class="card-text text-muted">
+            @Model.Club.Address
+            <span class="float-right mr-3">Email: @Model.Club.Email</span>
+            <span class="float-right mr-3">Phone: @Model.Club.Phone</span>
+        </p>
+    </div>
+</div>
+
+<form asp-action="Edit" asp-controller="Player" asp-route-clubId="@Model.Club.ClubID" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input type="hidden" asp-for="PlayerID" />
+    <input type="hidden" asp-for="Club.ClubID" />
+    <div class="form-group">
+        <label asp-for="FirstName">First Name:</label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName">Last Name:</label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Age">Age:</label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone">Phone:</label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <div class="text-center">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a asp-action="Detail" asp-controller="Club" asp-route-clubId="@Model.Club.ClubID"
+           class="btn btn-secondary">Cancel</a>
+    </div>
+
+</form>

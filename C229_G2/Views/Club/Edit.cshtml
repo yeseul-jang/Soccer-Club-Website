@@ -1,0 +1,14 @@
+﻿
+<h2>Club</h2>
+<p>Please enter the club  details.</p>
+
+<form asp-action="Edit" asp-controller="Club" method="post">
+
+    @await Html.PartialAsync("_ClubPartialForm")
+
+    <div class="text-center">
+        <button class="btn btn-primary" type="submit">Save</button>
+        <a asp-action="List" asp-controller="Club" class="btn btn-secondary">Cancel</a>
+    </div>
+
+</form>

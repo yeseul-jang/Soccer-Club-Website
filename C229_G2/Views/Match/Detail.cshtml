@@ -1,0 +1,43 @@
+﻿
+
+@await Html.PartialAsync("_MatchPartialView")
+
+<div>
+    <br />
+    <table class="table text-center">
+        <thead>
+            <tr>
+                <th scope="col">@Model.Match.HomeTeam.Name</th>
+                <th scope="col"></th>
+                <th scope="col">@Model.Match.AwayTeam.Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">@Model.Match.HomeGoals</th>
+                <td>Goals</td>
+                <td>@Model.Match.AwayGoals</td>
+            </tr>
+            <tr>
+                <th scope="row">@Model.Match.HomeFouls</th>
+                <td>Fouls</td>
+                <td>@Model.Match.AwayFouls</td>
+            </tr>
+            <tr>
+                <th scope="row">@Model.Match.HomeCorners</th>
+                <td>Corners</td>
+                <td>@Model.Match.AwayCorners</td>
+            </tr>
+            <tr>
+                <th scope="row">@Model.Match.HomeShotsOnTarget</th>
+                <td>ShotsOnTarget</td>
+                <td>@Model.Match.AwayShotsOnTarget</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<div class="text-center mt-3">
+    <a asp-controller="Match" asp-action="EditST" asp-route-matchID="@Model.Match.MatchID" class="btn btn-primary">Edit Statistic</a>
+</div>

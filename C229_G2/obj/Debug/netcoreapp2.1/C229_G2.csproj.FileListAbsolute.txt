@@ -1,0 +1,298 @@
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\leonardo\Google Drive\web\leo\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\Choi\Desktop\project\C229-G2_Leo\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\MatchPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\MatchPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\EditST.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\LineUp.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MatchPartialView.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\leonardo\source\web\C229-G2_Yeseul\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Event.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\leonardo\source\web\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\MatchPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\EditST.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Event.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\LineUp.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MatchPartialView.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\leonardo\source\web\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\Choi\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\MatchPlayer\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\EditST.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Event.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\LineUp.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MatchPartialView.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\Choi\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.deps.json
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.json
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.runtimeconfig.dev.json
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.dll
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\bin\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csprojAssemblyReference.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CoreCompileInputs.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorAssemblyInfo.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfoInputs.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.AssemblyInfo.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.input.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.TagHelpers.output.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorCoreGenerate.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Detail.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Club\List.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\MatchPlayer\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Detail.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\EditST.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\Event.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\LineUp.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Match\List.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Player\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ClubPartialForm.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MatchPartialView.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\TeamPlayer\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Detail.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\Edit.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\Team\List.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cache
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.RazorTargetAssemblyInfo.cs
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.Views.pdb
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.dll
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.pdb
+C:\Users\yeseul\Downloads\C229-G2\C229_G2\obj\Debug\netcoreapp2.1\C229_G2.csproj.CopyComplete

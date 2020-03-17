@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Team>
+
+<h2>Team List</h2>
+<table class="table table-sm table-striped table-bordered mt-4">
+    <thead>
+        <tr>
+            <th>Team ID</th>
+            <th>Name</th>
+            <th>Club</th>
+            <th class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Team team in Model)
+        {
+            <tr>
+                <td>@team.TeamID</td>
+                <td>@team.Name</td>
+                <td>@team.Club.Name</td>
+                <td class="text-center">
+                    <form asp-action="Delete" method="post">
+                        <a asp-action="Edit" class="btn btn-sm btn-warning"
+                           asp-route-teamId="@team.TeamID">
+                            Edit
+                        </a>
+                        <input type="hidden" name="TeamID" value="@team.TeamID" />
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                        <a asp-action="Detail" class="btn btn-sm btn-secondary"
+                           asp-route-teamId="@team.TeamID">
+                            Details
+                        </a>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Team" class="btn btn-primary">Add Team</a>
+</div>

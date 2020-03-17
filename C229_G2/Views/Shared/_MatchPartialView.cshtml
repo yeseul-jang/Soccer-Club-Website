@@ -1,0 +1,21 @@
+﻿@model MatchViewModel
+
+<h2>Match Details - Goals/Cards</h2>
+
+<div class="card bg-light">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Match.HomeTeam.Name @Model.Match.HomeGoals vs @Model.Match.AwayGoals @Model.Match.AwayTeam.Name</h5>
+        <p class="card-text text-muted">
+            @Model.Match.Date
+            <span class="float-right mr-3">Location: @Model.Match.Location</span>
+            <span class="float-right mr-3">Referee: @Model.Match.Referee</span>
+        </p>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-controller="Match" asp-action="Detail" asp-route-matchID="@Model.Match.MatchID" class="btn btn-primary">Statistic</a>
+    <a asp-controller="Match" asp-action="Event" asp-route-matchID="@Model.Match.MatchID" class="btn btn-primary">Events</a>
+    <a asp-controller="Match" asp-action="LineUp" asp-route-matchID="@Model.Match.MatchID" class="btn btn-primary">Line Up</a>
+    <a asp-controller="Match" asp-action="List" class="btn btn-primary">Back</a>
+</div>

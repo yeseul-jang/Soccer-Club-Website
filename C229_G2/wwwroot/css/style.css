@@ -1,0 +1,10 @@
+﻿
+.input-validation-error {
+    border-color: red;
+    background-color: #fee;
+}
+
+body {
+    padding-top: 3.5rem; /* Show it is fixed to the top */
+    margin-bottom: 60px; /* Margin bottom by footer height */
+}

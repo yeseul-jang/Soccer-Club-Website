@@ -1,0 +1,126 @@
+﻿@model MatchViewModel
+
+@await Html.PartialAsync("_MatchPartialView")
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+
+            @if (Model.HomeEvents.Count() > 0)
+            {
+            <h5 class="mt-3">@Model.Match.HomeTeam.Name Events</h5>
+
+            <table class="table table-sm table-striped table-bordered mt-4">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Goals</th>
+                        <th>Yellow Cards</th>
+                        <th>Red Cards</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (MatchPlayer player in Model?.HomeEvents)
+                        {
+                    <tr>
+                        <td>@player?.TeamPlayer?.Player.FullName</td>
+                        <td>@player.Goals</td>
+                        <td>@player.YellowCards</td>
+                        <td>@player.RedCards</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" class="btn btn-warning btn-sm"
+                               asp-controller="MatchPlayer"
+                               asp-route-matchID="@Model.Match.MatchID"
+                               asp-route-matchPlayerID="@player.MatchPlayerID">
+                                Edit
+                            </a>
+                        </td>
+                        <td class="text-center">
+                            <form asp-action="Delete" method="post"
+                                  asp-controller="MatchPlayer">
+                                <input type="hidden" name="MatchID" value="@Model.Match.MatchID" />
+                                <input type="hidden" name="MatchPlayerID" value="@player.MatchPlayerID" />
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    Delete
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                        }
+                </tbody>
+            </table>
+            }
+            else
+            {
+            <div class="text-center m-5">No scored goals or cards for this team</div>
+            }
+
+            <a asp-action="Create" asp-controller="MatchPlayer"
+               asp-route-matchId="@Model.Match.MatchID"
+               asp-route-teamId="@Model.Match.HomeTeam.TeamID"
+               class="btn btn-primary">Add Player</a>
+
+        </div>
+        <div class="col-sm">
+            @if (Model.AwayEvents.Count() > 0)
+            {
+            <h5 class="mt-3">@Model.Match.AwayTeam.Name Events</h5>
+
+            <table class="table table-sm table-striped table-bordered mt-4">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Goals</th>
+                        <th>Yellow Cards</th>
+                        <th>Red Cards</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (MatchPlayer player in Model?.AwayEvents)
+                        {
+                    <tr>
+                        <td>@player?.TeamPlayer?.Player.FullName</td>
+                        <td>@player.Goals</td>
+                        <td>@player.YellowCards</td>
+                        <td>@player.RedCards</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" class="btn btn-warning btn-sm"
+                               asp-controller="MatchPlayer"
+                               asp-route-matchID="@Model.Match.MatchID"
+                               asp-route-matchPlayerID="@player.MatchPlayerID">
+                                Edit
+                            </a>
+                        </td>
+                        <td class="text-center">
+                            <form asp-action="Delete" method="post"
+                                  asp-controller="MatchPlayer">
+                                <input type="hidden" name="MatchID" value="@Model.Match.MatchID" />
+                                <input type="hidden" name="MatchPlayerID" value="@player.MatchPlayerID" />
+                                <button type="submit" class="btn btn-danger btn-sm">
+                                    Delete
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                        }
+                </tbody>
+            </table>
+
+            }
+            else
+            {
+            <div class="text-center m-5">No scored goals or cards for this team</div>
+            }
+
+            <a asp-action="Create" asp-controller="MatchPlayer"
+               asp-route-matchId="@Model.Match.MatchID"
+               asp-route-teamId="@Model.Match.AwayTeam.TeamID"
+               class="btn btn-primary">Add Player</a>
+
+        </div>
+    </div>
+</div>
